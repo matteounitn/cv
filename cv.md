@@ -4,7 +4,7 @@
 
 # Matteo Rizzi
 
-# [![github](cv.assets/github.png)](https://github.com/matteounitn/) [![email](cv.assets/email.png)](mailto:) ![pgpkey](cv.assets/key.png) [![linkedin](cv.assets/linkedin.png)](https://www.linkedin.com/in/matteounitn/)
+# [![github](cv.assets/github.png)](https://github.com/matteounitn/) [![email](cv.assets/email.png)](mailto:mat.business@protonmail.com) [![pgpkey](cv.assets/key.png)](publickey - mat.business@protonmail.com - 0x22F68DF0.asc) [![linkedin](cv.assets/linkedin.png)](https://www.linkedin.com/in/matteounitn/)
 
 
 
@@ -99,4 +99,10 @@ Final elaborate in *The psychoanalysis of James Joyce and the artificial intelli
 ### ECDL Base
 
 *ECDL / ICDL Certification $\bullet$ May, 2016*
+
+
+
+![cv](cv.assets/cv.gif)
+
+
 
