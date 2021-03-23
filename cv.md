@@ -4,7 +4,7 @@
 
 # Matteo Rizzi
 
-# [![github](cv.assets/github.png)](https://github.com/matteounitn/) [![email](cv.assets/email.png)](mailto:mat.business@protonmail.com) [![pgpkey](cv.assets/key.png)](publickey - mat.business@protonmail.com - 0x22F68DF0.asc) [![linkedin](cv.assets/linkedin.png)](https://www.linkedin.com/in/matteounitn/)
+# [<img src="cv.assets/github.png" alt="github" style="zoom:25%;" />](https://github.com/matteounitn/) [<img src="cv.assets/email.png" alt="email" style="zoom:25%;" />](mailto:mat.business@protonmail.com) [<img src="cv.assets/key.png" alt="pgpkey" style="zoom:25%;" />](publickey - mat.business@protonmail.com - 0x22F68DF0.asc) [<img src="cv.assets/linkedin.png" alt="linkedin" style="zoom:25%;" />](https://www.linkedin.com/in/matteounitn/)
 
 
 
@@ -84,7 +84,7 @@ Thesis in *TLS Analyzers for Android Apps - State-of-the-art Analysis and Integr
 
 *High School Diploma* $\bullet$ *Sept, 2012 - Sept, 2017*
 
-Final elaborate in *The psychoanalysis of James Joyce and the artificial intelligences*
+Final elaborate in *psychoanalysis of James Joyce and the artificial intelligences*
 
 
 
@@ -102,7 +102,9 @@ Final elaborate in *The psychoanalysis of James Joyce and the artificial intelli
 
 
 
-![cv](cv.assets/cv.gif)
+
+
+<img src="cv.assets/cv.png" alt="cv" style="zoom:15%;" />
 
 
 
