@@ -106,5 +106,5 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 <img src="cv.assets/cv.png" alt="cv" style="zoom:15%;" />
 
-
+# [<img src="cv.assets/download.png" alt="download" style="zoom:25%;" />](https://matteounitn.github.io/cv/cv.pdf)
 
