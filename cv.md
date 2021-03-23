@@ -1,0 +1,102 @@
+
+
+<img src="cv.assets/mypropic_cropped_small.png" alt="mypropic_cropped_small" style="zoom:15%;" />
+
+# Matteo Rizzi
+
+# [![github](cv.assets/github.png)](https://github.com/matteounitn/) [![email](cv.assets/email.png)](mailto:) ![pgpkey](cv.assets/key.png) [![linkedin](cv.assets/linkedin.png)](https://www.linkedin.com/in/matteounitn/)
+
+
+
+---
+
+### Bachelor in Computer Science, Assistant Research Scientist
+
+I am an Assistant Research Scientist in the Security and Trust unit at FBK. I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.
+
+
+
+## Experiences
+
+### Fondazione Bruno Kessler (Trento, Italy)
+
+*Assistant Research Scientist* $\bullet$ *Feb, 2021 - Present*
+
+Security analysis of the TLS deployments of IPZS projects, TLS Analysis in Android Apps and TLS tool enhancement within the Security & Trust research unit.
+
+---
+
+*Internship* $\bullet$ *Feb, 2020 - May, 2020*
+
+Study and improvement of TLS analysis tools within the Security & Trust research unit.
+
+
+
+## Projects
+
+### [TLSAssistant](https://github.com/stfbk/tlsassistant)
+
+*Version 1.3 and 2.0 (soon)* $\bullet$ *2020 - Present*
+
+Fully-featured tool that combines state-of-the-art TLS analyzers with a report system that suggests appropriate mitigations and shows the full set of viable attacks.
+
+---
+
+### [iHash](https://github.com/matteounitn/iHash)
+
+*Perceptual hashing library in python $\bullet$ 2020 - Present*
+
+Python library to easily check if two images are similar without machine learning by using Perceptual Hashing (phash and whash combined), with ban and unban image system.
+
+
+
+## Minor Works
+
+### [Mallodroid](https://github.com/stfbk/mallodroid)
+
+*Conversion in Python 3 and enhancements* $\bullet$ *2020 - 2021*
+
+---
+
+### [telegram-deep-fakes-bot](https://github.com/albertoxamin/telegram-deep-fakes-bot)
+
+*Easy implementation and use of the first order model* $\bullet$ *2020*
+
+---
+
+### [Rappresentanti Bot](https://github.com/matteounitn/rappdisibot)
+
+*HelpDesk Telegram bot to support DISI Students in University of Trento* $\bullet$ 2019
+
+
+
+## Education
+
+### University of Trento (Trento, Italy)
+
+*Bachelor of Computer Science* $\bullet$ *Sept, 2017 - Mar, 2021*
+
+Thesis in *TLS Analyzers for Android Apps - State-of-the-art Analysis and Integration in TLSAssistant*
+
+---
+
+### I.I.S. Primo Levi (Badia Polesine, Italy)
+
+*High School Diploma* $\bullet$ *Sept, 2012 - Sept, 2017*
+
+Final elaborate in *The psychoanalysis of James Joyce and the artificial intelligences*
+
+
+
+## Certifications
+
+**First Certificate**
+
+*Cambridge Assessment English - B2 $\bullet$ Apr, 2017*
+
+----
+
+### ECDL Base
+
+*ECDL / ICDL Certification $\bullet$ May, 2016*
+
