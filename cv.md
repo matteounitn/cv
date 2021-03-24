@@ -34,6 +34,14 @@ Study and improvement of TLS analysis tools within the Security & Trust research
 
 ## Projects
 
+### [breaking-telegram](https://github.com/matteounitn/breaking-telegram)
+
+*PoC script to break Telegram $\bullet$ 2021*
+
+Simple PoC script that allows you to exploit telegram's "send with timer" feature by saving any media received with this functionality, automatically.
+
+---
+
 ### [TLSAssistant](https://github.com/stfbk/tlsassistant)
 
 *Version 1.3 and 2.0 (soon)* $\bullet$ *2020 - Present*
