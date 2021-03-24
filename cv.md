@@ -1,6 +1,6 @@
 
 
-<img src="cv.assets/mypropic_cropped_small.png" alt="mypropic_cropped_small" style="min-width:150px;width:20%;" />
+<img src="cv.assets/mypropic_cropped.png" alt="mypropic_cropped_small" style="min-width:150px;width:20%;" />
 
 # Matteo Rizzi
 
