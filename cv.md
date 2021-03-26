@@ -50,7 +50,7 @@ Fully-featured tool that combines state-of-the-art TLS analyzers with a report s
 
 ---
 
-### [iHash](https://github.com/matteounitn/iHash)
+### [iHashDNA](https://github.com/matteounitn/iHashDNA)
 
 *Perceptual hashing library in python $\bullet$ 2020 - Present*
 
