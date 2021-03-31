@@ -4,7 +4,7 @@
 
 # Matteo Rizzi
 
-# [<img src="cv.assets/github.png" alt="github" style="min-width:32px;width:3%;" />](https://github.com/matteounitn/) [<img src="cv.assets/calendar.png" alt="meet me" style="min-width:32px;width:3%;" />](https://doodle.com/mm/matteorizzi/meetme) [<img src="cv.assets/email.png" alt="email" style="min-width:32px;width:3%;" />](mailto:mat.business@protonmail.com) [<img src="cv.assets/key.png" alt="pgpkey" style="min-width:32px;width:3%;" />](publickey - mat.business@protonmail.com - 0x22F68DF0.asc) [<img src="cv.assets/linkedin.png" alt="linkedin" style="min-width:32px;width:3%;" />](https://www.linkedin.com/in/matteounitn/)
+# [<img src="cv.assets/github.png" alt="github" style="min-width:32px;width:3%;" />](https://github.com/matteounitn/) [<img src="cv.assets/email.png" alt="email" style="min-width:32px;width:3%;" />](mailto:mat.business@protonmail.com) [<img src="cv.assets/key.png" alt="pgpkey" style="min-width:32px;width:3%;" />](publickey - mat.business@protonmail.com - 0x22F68DF0.asc) [<img src="cv.assets/linkedin.png" alt="linkedin" style="min-width:32px;width:3%;" />](https://www.linkedin.com/in/matteounitn/)
 
 
 
@@ -114,5 +114,5 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 <img src="cv.assets/cv.png" alt="cv" style="min-width:150px;width:20%;" />
 
-# [<img src="cv.assets/download.png" alt="download" style="min-width:32px;width:3%;" />](https://matteounitn.github.io/cv/cv.pdf)
+# [<img src="cv.assets/calendar.png" alt="meet me" style="min-width:32px;width:3%;" />](https://doodle.com/mm/matteorizzi/meetme)
 
