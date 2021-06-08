@@ -98,6 +98,21 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 ## Certifications
 
+**CyberWiser - CyberRange And Capacity Building in CyberSecurity**
+
+| Module      | Date         |                                                  Certificate |
+| :---------- | :----------- | -----------------------------------------------------------: |
+| *P-01-M-01* | May 19, 2021 | [Download](certificates/cyberwiser/P-01-M-01_Final certificate.pdf) |
+| *P-01-M-02* | May 20, 2021 | [Download](certificates/cyberwiser/P-01-M-02_Final certificate.pdf) |
+| *P-02*      | May 20, 2021 | [Download](certificates/cyberwiser/P-02_Final certificate.pdf) |
+| *P-03*      | May 20, 2021 | [Download](certificates/cyberwiser/P-03_Final certificate.pdf) |
+| *P-04*      | May 25, 2021 | [Download](certificates/cyberwiser/P-04_Final certificate.pdf) |
+| *P-05*      | June 4, 2021 | [Download](certificates/cyberwiser/P-05_Final certificate.pdf) |
+| *P-06*      | June 4, 2021 | [Download](certificates/cyberwiser/P-06_Final certificate.pdf) |
+|             |              |                                                              |
+
+-----
+
 **First Certificate**
 
 *Cambridge Assessment English - B2 $\bullet$ Apr, 2017*
