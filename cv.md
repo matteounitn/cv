@@ -22,7 +22,7 @@ I am an Assistant Research Scientist in the Security and Trust unit at FBK. I jo
 
 *Assistant Research Scientist* $\bullet$ *Feb, 2021 - Present*
 
-Security analysis of the TLS deployments of IPZS projects, TLS Analysis in Android Apps and TLS tool enhancement within the Security & Trust research unit.
+Security analysis of the TLS deployments of [IPZS](https://www.ipzs.it) projects, TLS Analysis in Android Apps and TLS tool enhancement within the Security & Trust research unit.
 
 ---
 
@@ -30,7 +30,13 @@ Security analysis of the TLS deployments of IPZS projects, TLS Analysis in Andro
 
 Study and improvement of TLS analysis tools within the Security & Trust research unit.
 
+---
 
+**Futuro & Conoscenza S.r.l. (Trento & Rome, Italy)**
+
+*Assistant Research Scientist* $\bullet$ *Jul, 2021 - Present*
+
+Collaboration between Fondazione Bruno Kessler and [IPZS](https://www.ipzs.it) to promote the exchange of know-how and competences in the field of security technologies (material and digital) such as identification and and anti-counterfeiting, as well as the creation of a center for the coordination and exploitation of research.
 
 ## Projects
 
