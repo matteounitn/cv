@@ -133,7 +133,7 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 
 
-# [<img src="cv.assets/cv.png" alt="cv" style="min-width:150px;width:20%;" />](https://matteounitn.github.io/cv/cv.pdf)
+# [<img src="cv.assets/cv.png" alt="cv" style="min-width:150px;width:20%;" />](https://matteo.rizzi.xyz/cv.pdf)
 
 # [<img src="cv.assets/calendar.png" alt="meet me" style="min-width:32px;width:3%;" />](https://doodle.com/mm/matteorizzi/meetme)
 
