@@ -12,7 +12,7 @@
 
 ### Bachelor in Computer Science, Assistant Research Scientist
 
-I am an Assistant Research Scientist in the Security and Trust unit at FBK. I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.
+I am an Assistant Research Scientist in the Security and Trust unit at [FBK](https://fbk.eu). I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.
 
 
 
@@ -36,7 +36,7 @@ Study and improvement of TLS analysis tools within the Security & Trust research
 
 *Assistant Research Scientist* $\bullet$ *Jul, 2021 - Present*
 
-Collaboration between Fondazione Bruno Kessler and [IPZS](https://www.ipzs.it) to promote the exchange of know-how and competences in the field of security technologies (material and digital) such as identification and and anti-counterfeiting, as well as the creation of a center for the coordination and exploitation of research.
+Collaboration between [Fondazione Bruno Kessler](https://fbk.eu) and [IPZS](https://www.ipzs.it) to promote the exchange of know-how and competences in the field of security technologies (material and digital) such as identification and and anti-counterfeiting, as well as the creation of a center for the coordination and exploitation of research.
 
 ## Projects
 
@@ -128,6 +128,18 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 ### ECDL Base
 
 *ECDL / ICDL Certification $\bullet$ May, 2016*
+
+
+
+## Soft Skills
+
+### University of Trento (Trento, Italy)
+
+*Student Representative for DISI* $\bullet$ *Nov, 2018 - Nov, 2022*
+
+Department Of Information Engineering And Computer Science
+
+
 
 
 
