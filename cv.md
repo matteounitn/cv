@@ -10,9 +10,9 @@
 
 ---
 
-### Bachelor in Computer Science, Assistant Research Scientist
+### Bachelor in Computer Science, Junior Research Scientist
 
-I am an Assistant Research Scientist in the Security and Trust unit at [FBK](https://fbk.eu). I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.
+I am an Junior Research Scientist in the Security and Trust unit at [FBK](https://fbk.eu). I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.
 
 
 
@@ -20,7 +20,7 @@ I am an Assistant Research Scientist in the Security and Trust unit at [FBK](htt
 
 ### Fondazione Bruno Kessler (Trento, Italy)
 
-*Assistant Research Scientist* $\bullet$ *Feb, 2021 - Present*
+*Junior Research Scientist* $\bullet$ *Feb, 2021 - Present*
 
 Security analysis of the TLS deployments of [IPZS](https://www.ipzs.it) projects, TLS Analysis in Android Apps and TLS tool enhancement within the Security & Trust research unit.
 
@@ -34,7 +34,7 @@ Study and improvement of TLS analysis tools within the Security & Trust research
 
 **Futuro & Conoscenza S.r.l. (Trento & Rome, Italy)**
 
-*Assistant Research Scientist* $\bullet$ *Jul, 2021 - Present*
+*Junior Research Scientist* $\bullet$ *Jul, 2021 - Present*
 
 Collaboration between [Fondazione Bruno Kessler](https://fbk.eu) and [IPZS](https://www.ipzs.it) to promote the exchange of know-how and competences in the field of security technologies (material and digital) such as identification and and anti-counterfeiting, as well as the creation of a center for the coordination and exploitation of research.
 
