@@ -4,6 +4,8 @@
 
 # Matteo Rizzi
 
+<center><i>matteo@rizzi.xyz</i></center>
+
 # [<img src="cv.assets/github.png" alt="github" style="min-width:32px;width:3%;" />](https://github.com/matteounitn/) [<img src="cv.assets/email.png" alt="email" style="min-width:32px;width:3%;" />](mailto:mat.business@protonmail.com) [<img src="cv.assets/key.png" alt="pgpkey" style="min-width:32px;width:3%;" />](publickey - mat.business@protonmail.com - 0x22F68DF0.asc) [<img src="cv.assets/linkedin.png" alt="linkedin" style="min-width:32px;width:3%;" />](https://www.linkedin.com/in/matteounitn/)
 
 
@@ -50,7 +52,7 @@ Simple PoC script that allows you to exploit telegram's "send with timer" featur
 
 ### [TLSAssistant](https://github.com/stfbk/tlsassistant)
 
-*Version 1.3 and 2.0 (soon)* $\bullet$ *2020 - Present*
+*Version 1.3 and 2.0 to 2.3* $\bullet$ *2020 - Present*
 
 Fully-featured tool that combines state-of-the-art TLS analyzers with a report system that suggests appropriate mitigations and shows the full set of viable attacks.
 
