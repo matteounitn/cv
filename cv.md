@@ -40,6 +40,16 @@ Study and improvement of TLS analysis tools within the Security & Trust research
 
 Collaboration between [Fondazione Bruno Kessler](https://fbk.eu) and [IPZS](https://www.ipzs.it) to promote the exchange of know-how and competences in the field of security technologies (material and digital) such as identification and and anti-counterfeiting, as well as the creation of a center for the coordination and exploitation of research.
 
+
+
+## Papers
+
+### A modular and extensible framework for securing TLS
+
+*in 12th ACM Conference on Data and Application Security and Privacy, CODASPY* $\bullet$ *Apr, 2022*
+
+Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
+
 ## Projects
 
 ### [breaking-telegram](https://github.com/matteounitn/breaking-telegram)
@@ -92,7 +102,7 @@ Python library to easily check if two images are similar without machine learnin
 
 *Bachelor of Computer Science* $\bullet$ *Sept, 2017 - Mar, 2021*
 
-Thesis in *TLS Analyzers for Android Apps - State-of-the-art Analysis and Integration in TLSAssistant*
+Thesis in *TLS Analyzers for Android Apps - State-of-the-art Analysis and Integration in TLSAssistant.*
 
 ---
 
@@ -100,7 +110,7 @@ Thesis in *TLS Analyzers for Android Apps - State-of-the-art Analysis and Integr
 
 *High School Diploma* $\bullet$ *Sept, 2012 - Sept, 2017*
 
-Final elaborate in *psychoanalysis of James Joyce and the artificial intelligences*
+Final elaborate in *psychoanalysis of James Joyce and the artificial intelligences*.
 
 
 
