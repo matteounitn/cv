@@ -155,9 +155,22 @@ Department Of Information Engineering And Computer Science
 
 
 
+## Programming Skills
 
-
-
+| Language    |       Knowledge Level        |
+| :---------- | :--------------------------: |
+| Python      |          *Advanced*          |
+| Java        |          *Advanced*          |
+| C (and C++) |          *Advanced*          |
+| SQL         |          *Advanced*          |
+| Kotlin      |        *Intermediate*        |
+| PHP         |        *Intermediate*        |
+| RUST        | *Basic (willing to improve)* |
+| JS          |           *Basic*            |
+| PolyML      |           *Basic*            |
+| R           |           *Basic*            |
+| ASM         |           *Basic*            |
+|             |                              |
 
 # [<img src="cv.assets/cv.png" alt="cv" style="min-width:150px;width:20%;" />](https://matteo.rizzi.xyz/cv.pdf)
 
