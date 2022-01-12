@@ -145,6 +145,16 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 
 
+## Programming Skills
+
+| Language                       |       Knowledge Level        |
+| :----------------------------- | :--------------------------: |
+| Python, Java, C (and C++), SQL |          *Advanced*          |
+| Kotlin, PHP                    |        *Intermediate*        |
+| RUST                           | *Basic (willing to improve)* |
+| JS, PolyML, R, ASM             |           *Basic*            |
+|                                |                              |
+
 ## Soft Skills
 
 ### University of Trento (Trento, Italy)
@@ -154,23 +164,6 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 Department Of Information Engineering And Computer Science
 
 
-
-## Programming Skills
-
-| Language    |       Knowledge Level        |
-| :---------- | :--------------------------: |
-| Python      |          *Advanced*          |
-| Java        |          *Advanced*          |
-| C (and C++) |          *Advanced*          |
-| SQL         |          *Advanced*          |
-| Kotlin      |        *Intermediate*        |
-| PHP         |        *Intermediate*        |
-| RUST        | *Basic (willing to improve)* |
-| JS          |           *Basic*            |
-| PolyML      |           *Basic*            |
-| R           |           *Basic*            |
-| ASM         |           *Basic*            |
-|             |                              |
 
 # [<img src="cv.assets/cv.png" alt="cv" style="min-width:150px;width:20%;" />](https://matteo.rizzi.xyz/cv.pdf)
 
