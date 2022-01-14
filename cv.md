@@ -44,7 +44,7 @@ Collaboration between [Fondazione Bruno Kessler](https://fbk.eu) and [IPZS](http
 
 ## Papers
 
-### [A modular and extensible framework for securing TLS](https://doi.org/10.1145/3508398.3511505)
+### [A Modular and Extensible Framework for Securing TLS](https://doi.org/10.1145/3508398.3511505)
 
 *in 12th ACM Conference on Data and Application Security and Privacy, CODASPY* $\bullet$ *Apr, 2022*
 
