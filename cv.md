@@ -4,9 +4,9 @@
 
 # Matteo Rizzi
 
-<center><i>matteo@rizzi.xyz</i></center>
+<center><i>matteo@rizzi.xyz</i><br><i>@matteounitn:matrix.org</i></center>
 
-# [<img src="cv.assets/github.png" alt="github" style="min-width:32px;width:3%;" />](https://github.com/matteounitn/) [<img src="cv.assets/email.png" alt="email" style="min-width:32px;width:3%;" />](mailto:matteo@rizzi.xyz) [<img src="cv.assets/key.png" alt="pgpkey" style="min-width:32px;width:3%;" />](publickey.matteo@rizzi.xyz.asc) [<img src="cv.assets/linkedin.png" alt="linkedin" style="min-width:32px;width:3%;" />](https://www.linkedin.com/in/matteounitn/)
+# [<img src="cv.assets/github.png" alt="github" style="min-width:32px;width:3%;" />](https://github.com/matteounitn/) [<img src="cv.assets/hashtag.png" alt="element.io" style="min-width:32px;width:3%;" />](https://matrix.to/#/@matteounitn:matrix.org) [<img src="cv.assets/key.png" alt="pgpkey" style="min-width:32px;width:3%;" />](publickey.matteo@rizzi.xyz.asc) [<img src="cv.assets/linkedin.png" alt="linkedin" style="min-width:32px;width:3%;" />](https://www.linkedin.com/in/matteounitn/)
 
 
 
