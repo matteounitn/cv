@@ -14,7 +14,7 @@
 
 ### Bachelor in Computer Science, Junior Research Scientist
 
-Born in 1998, 30 September, I work as a Junior Research Scientist in the [Security and Trust](https://st.fbk.eu) unit at [Fondazione Bruno Kessler](https://fbk.eu). I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.
+Born in 1998, 30 September, I work as a Junior Research Scientist in the [Security and Trust](https://st.fbk.eu) unit at [Fondazione Bruno Kessler](https://www.fbk.eu). I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.
 
 
 
