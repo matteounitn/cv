@@ -157,7 +157,7 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 ## Interests and Soft Skills
 
-I am passionate about *CyberSecurity, Privacy, and Digital Identity*, as well as the solutions that embrace these areas, which include (but are *not limited to*) *Security Protocol Analysis, Access Control, Zero-Trust and Zero-Knowledge methods, Malware Analysis and AI-Powered CyberSecurity*. I am particularly intrigued by the idea of developing novel solutions and conducting scientific research in these fields.
+I am passionate about *CyberSecurity, Privacy, Forensics and Digital Identity*, as well as the solutions that embrace these areas, which include (but are *not limited to*) *Security Protocol Analysis, Access Control, Zero-Trust and Zero-Knowledge methods, Malware Analysis and AI-Powered CyberSecurity*. I am particularly intrigued by the idea of developing novel solutions and conducting scientific research in these fields.
 
 ---
 
