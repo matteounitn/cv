@@ -54,6 +54,14 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 ## Projects
 
+**Multi-CIE System**
+
+*Ideation and creation of the CieID App Multi-CIE $\bullet$ Jan, 2022 - March, 2022*
+
+The CieID App allows users to verify themselves for public services in Italy by using the CIE Card, commonly known as Carta di Identità Elettronica (eID card). Worked as part of a team to develop the best method for storing multiple eID cards in the APP while keeping the highest level of security and determining the optimum balance of security and usability.
+
+----
+
 ### [breaking-telegram](https://github.com/matteounitn/breaking-telegram)
 
 *PoC script to break Telegram $\bullet$ 2021*
@@ -72,7 +80,7 @@ Fully-featured tool that combines state-of-the-art TLS analyzers with a report s
 
 ### [iHashDNA](https://github.com/matteounitn/iHashDNA)
 
-*Perceptual hashing library in python $\bullet$ 2020 - Present*
+*Perceptual hashing library in python $\bullet$ 2020 - 2022 (Suspended)*
 
 Python library to easily check if two images are similar without machine learning by using Perceptual Hashing (phash and whash combined), with ban and unban image system.
 
