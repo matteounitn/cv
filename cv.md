@@ -56,7 +56,7 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 **Multi-CIE System**
 
-*Ideation and creation of the CieID App Multi-CIE $\bullet$ Jan, 2022 - March, 2022*
+*Ideation of the Multi-CIE function in the CieID App $\bullet$ Jan, 2022 - March, 2022*
 
 The CieID App allows users to verify themselves for public services in Italy by using the CIE Card, commonly known as Carta di Identità Elettronica (eID card). Worked as part of a team to develop the best method for storing multiple eID cards in the APP while keeping the highest level of security and determining the optimum balance of security and usability.
 
@@ -72,7 +72,7 @@ Simple PoC script that allows you to exploit telegram's "send with timer" featur
 
 ### [TLSAssistant](https://github.com/stfbk/tlsassistant)
 
-*Version 1.3 and 2.0 to 2.3* $\bullet$ *2020 - Present*
+*Starting from Version 1.3* $\bullet$ *2020 - Present*
 
 Fully-featured tool that combines state-of-the-art TLS analyzers with a report system that suggests appropriate mitigations and shows the full set of viable attacks.
 
