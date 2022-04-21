@@ -4,9 +4,9 @@
 
 # Matteo Rizzi
 
-<center><i>matteo@rizzi.xyz</i><br><i>@matteounitn:matrix.org</i></center>
+<center><i>matteo@rizzi.xyz</i><br><i>@matteounitn:matrix.org</i><br><small><i>orcid: <a href="https://orcid.org/0000-0002-5288-3031" style="text-decoration: none;">0000-0002-5288-3031</a></i></small></center>
 
-# [<img src="cv.assets/github.png" alt="github" style="min-width:32px;width:3%;" />](https://github.com/matteounitn/) [<img src="cv.assets/hashtag.png" alt="element.io" style="min-width:32px;width:3%;" />](https://matrix.to/#/@matteounitn:matrix.org) [<img src="cv.assets/key.png" alt="pgpkey" style="min-width:32px;width:3%;" />](publickey.matteo@rizzi.xyz.asc) [<img src="cv.assets/linkedin.png" alt="linkedin" style="min-width:32px;width:3%;" />](https://www.linkedin.com/in/matteounitn/)
+# [<img src="cv.assets/github.png" alt="github" style="min-width:32px;width:3%;" />](https://github.com/matteounitn/) [<img src="cv.assets/hashtag.png" alt="element.io" style="min-width:32px;width:3%;" />](https://matrix.to/#/@matteounitn:matrix.org) [<img src="cv.assets/key.png" alt="pgpkey" style="min-width:32px;width:3%;" />](publickey.matteo@rizzi.xyz.asc) [<img src="cv.assets/linkedin.png" alt="linkedin" style="min-width:32px;width:3%;" />](https://www.linkedin.com/in/matteounitn/) [<img src="cv.assets/rs.png" alt="researchgate" style="min-width:32px;width:3%;" />](https://www.researchgate.net/profile/Matteo-Rizzi-11)
 
 
 
