@@ -44,6 +44,14 @@ Collaboration between [Fondazione Bruno Kessler](https://fbk.eu) and [IPZS](http
 
 ## Papers
 
+### [Demo: TLSAssistant v2](https://doi.org/10.1145/3532105.3535042)
+
+*in ACM Symposium on Access Control Models and Technologies, SACMAT* $\bullet$ *Jun, 2022*
+
+Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
+
+----
+
 ### [A Modular and Extensible Framework for Securing TLS](https://doi.org/10.1145/3508398.3511505)
 
 *in 12th ACM Conference on Data and Application Security and Privacy, CODASPY* $\bullet$ *Apr, 2022*
