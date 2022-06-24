@@ -14,7 +14,7 @@
 
 ### Bachelor in Computer Science, Junior Research Scientist
 
-Born in 1998, 30 September, I work as a Junior Research Scientist in the [Security and Trust](https://st.fbk.eu) unit at [Fondazione Bruno Kessler](https://www.fbk.eu). I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.
+<p style="text-align: justify;">Born in 1998, 30 September, I work as a Junior Research Scientist in the <a href="https://st.fbk.eu">Security and Trust</a> unit at <a href="https://www.fbk.eu">Fondazione Bruno Kessler</a>. I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.</p>
 
 
 
@@ -24,13 +24,13 @@ Born in 1998, 30 September, I work as a Junior Research Scientist in the [Securi
 
 *Junior Research Scientist* $\bullet$ *Feb, 2021 - Present*
 
-Security analysis of the TLS deployments of [IPZS](https://www.ipzs.it) projects, TLS Analysis in Android Apps and TLS tool enhancement within the Security & Trust research unit.
+<p style="text-align: justify;">Security analysis of the TLS deployments of <a href="https://www.ipzs.it">IPZS</a> projects, TLS Analysis in Android Apps and TLS tool enhancement within the Security & Trust research unit.</p>
 
 ---
 
 *Internship* $\bullet$ *Feb, 2020 - May, 2020*
 
-Study and improvement of TLS analysis tools within the Security & Trust research unit.
+<p style="text-align: justify;">Study and improvement of TLS analysis tools within the Security & Trust research unit.</p>
 
 ---
 
@@ -38,7 +38,7 @@ Study and improvement of TLS analysis tools within the Security & Trust research
 
 *Junior Research Scientist* $\bullet$ *Jul, 2021 - Present*
 
-Collaboration between [Fondazione Bruno Kessler](https://fbk.eu) and [IPZS](https://www.ipzs.it) to promote the exchange of know-how and competences in the field of security technologies (material and digital) such as identification and and anti-counterfeiting, as well as the creation of a center for the coordination and exploitation of research.
+<p style="text-align: justify;">Collaboration between <a href="https://www.fbk.eu">Fondazione Bruno Kessler</a> and <a href="https://www.ipzs.it">IPZS</a> to promote the exchange of know-how and competences in the field of security technologies (material and digital) such as identification and and anti-counterfeiting, as well as the creation of a center for the coordination and exploitation of research.</p>
 
 
 
@@ -60,13 +60,33 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 
 
+## Teaching and Tutoring
+
+### Internship Tutor
+
+*Andrea Brandolini and Mattia Andreolli* in FBK, Security and Trust Unit $\bullet$ *Jun, 2022 - Present*
+
+<p style="text-align: justify;"><small> Andrea Brandolini and Mattia Andreolli are two outstanding students from Istituto Tecnico Tecnologico Buonarroti (Trento, Italy). They readily comprehended complicated topics like as databases and overflow threats despite just being in their third year. They are working with me and my colleague Salvatore Manfredi on a project that will raise awareness about security postures (e.g. password management, phishing awareness and more).</small></p>
+
+---
+
+*Federico Cucino* in FBK, Security and Trust Unit $\bullet$ *Feb, 2022 - Apr, 2022*
+
+<p style="text-align: justify;"><small>I had the opportunity to oversee Federico Cucino, an undergraduate student at University of Trento, thanks to my colleague Salvatore Manfredi. Federico did an excellent job by collecting information on overall webserver use and, more specifically, Public Administration in Italy. Upon learning that NGINX was competing with APACHE, he included several mitigations into NGINX and developed a parser for TLSAssistant. The parser can quickly scan an NGINX configuration and automatically repair any TLS vulnerabilities discovered. Federico was finally able to analyze the TLS environment in deep and correct additional flaws he discovered in the tool.</small></p>
+
+----
+
+*Ivan Valentini* in FBK, Security and Trust Unit $\bullet$ *Feb, 2022 - Apr, 2022*
+
+<p style="text-align: justify;"><small>Thanks to my colleague Salvatore Manfredi, I have overseen the internship of an undergraduate student at University of Trento, Ivan Valentini. Ivan, a talented student, researched the TLS area to see what new threats had emerged. Ivan encountered ALPACA, Racoon, Zombie POODLE, Golden DOODLE, 0-Length OpenSSL, and Sleeping POODLE after researching the literature. Using POODLE variations as a starting point, Ivan investigated the optimal method for integrating these vulnerability checks into TLSAssistant. Ivan progressively included all prior vulnerability assessments (i.e. ALPACA, POODLE variants and Racoon). Not only did he incorporate them into our tool, but he also corrected and made the external tool TLSScanner more efficient by statistically demonstrating it by scanning the Alexa top 50,000 websites.</small></p>
+
 ## Projects
 
 **Multi-CIE System**
 
 *Ideation of the Multi-CIE function in the CieID App $\bullet$ Jan, 2022 - March, 2022*
 
-The CieID App allows users to verify themselves for public services in Italy by using the CIE Card, commonly known as Carta di Identità Elettronica (eID card). Worked as part of a team to develop the best method for storing multiple eID cards in the APP while keeping the highest level of security and determining the optimum balance of security and usability.
+<p style="text-align: justify;">The CieID App allows users to verify themselves for public services in Italy by using the CIE Card, commonly known as Carta di Identità Elettronica (eID card). Worked as part of a team to develop the best method for storing multiple eID cards in the APP while keeping the highest level of security and determining the optimum balance of security and usability.</p>
 
 ----
 
@@ -74,7 +94,7 @@ The CieID App allows users to verify themselves for public services in Italy by 
 
 *PoC script to break Telegram $\bullet$ 2021*
 
-Simple PoC script that allows you to exploit telegram's "send with timer" feature by saving any media received with this functionality, automatically.
+<p style="text-align: justify;">Simple PoC script that allows you to exploit telegram's "send with timer" feature by saving any media received with this functionality, automatically.</p>
 
 ---
 
@@ -82,7 +102,7 @@ Simple PoC script that allows you to exploit telegram's "send with timer" featur
 
 *Starting from Version 1.3* $\bullet$ *2020 - Present*
 
-Fully-featured tool that combines state-of-the-art TLS analyzers with a report system that suggests appropriate mitigations and shows the full set of viable attacks.
+<p style="text-align: justify;">Fully-featured tool that combines state-of-the-art TLS analyzers with a report system that suggests appropriate mitigations and shows the full set of viable attacks.</p>
 
 ---
 
@@ -90,7 +110,7 @@ Fully-featured tool that combines state-of-the-art TLS analyzers with a report s
 
 *Perceptual hashing library in python $\bullet$ 2020 - 2022 (Suspended)*
 
-Python library to easily check if two images are similar without machine learning by using Perceptual Hashing (phash and whash combined), with ban and unban image system.
+<p style="text-align: justify;">Python library to easily check if two images are similar without machine learning by using Perceptual Hashing (phash and whash combined), with ban and unban image system.</p>
 
 
 
@@ -161,7 +181,9 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 
 
-## Programming Skills
+## Technical and Programming Skills
+
+<p style="text-align: justify;"> I am widely proficient in everything that touches the cybersecurity realm. My areas of expertise include security testing, vulnerability assessment, cyberrisk assessment, network security (e.g. DmZ, firewalls, honeypots), privacy, trust, and digital identity. During the Machine Learning course, I worked with advanced deep learning systems (such as a convolutional neural network to identify Covid-19 from radiography, in 2020) and achieved the highest gpa in multimedia data security (e.g. invisible and visible watermarking, compression resistant watermarking and classifying differences from video compression applied by Facebook and Youtube).</p>
 
 | Language                       |       Knowledge Level        |
 | :----------------------------- | :--------------------------: |
@@ -177,7 +199,9 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 *What i really want to do in my future* $\bullet$ *2022*
 
-I am passionate about *CyberSecurity, Privacy, Forensics and Digital Identity*, as well as the solutions that embrace these areas, which include (but are *not limited to*) *Security Protocol Analysis, Access Control, Zero-Trust and Zero-Knowledge methods, Malware Analysis and AI-Powered CyberSecurity*. I am particularly intrigued by the idea of developing novel solutions and conducting scientific research in these fields.
+<p style="text-align: justify;">I am passionate about <i>CyberSecurity, Privacy, Forensics and Digital Identity</i>, as well as the solutions that embrace these areas, which include (but are <i>not limited to</i>) <i>Security Protocol Analysis, Access Control, Zero-Trust and Zero-Knowledge methods, Malware Analysis and AI-Powered CyberSecurity</i>. I am particularly intrigued by the idea of developing novel solutions and conducting scientific research in these fields.</p>
+
+I would like to understand better how to conduct red teaming in a professional and certified manner.
 
 ---
 
