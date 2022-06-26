@@ -80,6 +80,8 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 <p style="text-align: justify;"><small>Thanks to my colleague Salvatore Manfredi, I have overseen the internship of an undergraduate student at University of Trento, Ivan Valentini. Ivan, a talented student, researched the TLS area to see what new threats had emerged. Ivan encountered ALPACA, Racoon, Zombie POODLE, Golden DOODLE, 0-Length OpenSSL, and Sleeping POODLE after researching the literature. Using POODLE variations as a starting point, Ivan investigated the optimal method for integrating these vulnerability checks into TLSAssistant. Ivan progressively included all prior vulnerability assessments (i.e. ALPACA, POODLE variants and Racoon). Not only did he incorporate them into our tool, but he also corrected and made the external tool TLSScanner more efficient by statistically demonstrating it by scanning the Alexa top 50,000 websites.</small></p>
 
+
+
 ## Projects
 
 **Multi-CIE System**
@@ -178,6 +180,8 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 ### ECDL Base
 
 *ECDL / ICDL Certification $\bullet$ May, 2016*
+
+
 
 <div class="break_page"></div>
 
