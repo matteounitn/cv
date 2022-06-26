@@ -179,7 +179,7 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 *ECDL / ICDL Certification $\bullet$ May, 2016*
 
-
+<div class="break_page"></div>
 
 ## Technical and Programming Skills
 
