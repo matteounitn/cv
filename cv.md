@@ -189,6 +189,10 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 <p style="text-align: justify;"> I am widely proficient in everything that touches the cybersecurity realm. My areas of expertise include security testing, vulnerability assessment, cyberrisk assessment, network security (e.g. DmZ, firewalls, honeypots), privacy, trust, and digital identity. During the Machine Learning course, I worked with advanced deep learning systems (such as a convolutional neural network to identify Covid-19 from radiography, in 2020) and achieved the highest gpa in multimedia data security (e.g. invisible and visible watermarking, compression resistant watermarking and classifying differences from video compression applied by Facebook and Youtube).</p>
 
+---
+
+### Programming Skills 
+
 | Language                       |       Knowledge Level        |
 | :----------------------------- | :--------------------------: |
 | Python, Java, C (and C++), SQL |          *Advanced*          |
@@ -196,6 +200,23 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 | RUST                           | *Basic (willing to improve)* |
 | JS, PolyML, R, ASM             |           *Basic*            |
 |                                |                              |
+
+---
+
+### Known Standards
+
+| Name                  | Common Name                                                  | Level        |
+| --------------------- | ------------------------------------------------------------ | ------------ |
+| ISO 23220             | Building blocks for identity management via mobile devices   | Proficient   |
+| ISO 18013-5           | Mobile Driving License                                       | Proficient   |
+| ISO 29003             | Identity proofing                                            | Proficient   |
+| ISO 29115             | Entity authentication assurance framework                    | Proficient   |
+| EUDI Wallet Framework | European Digital Identity Architecture and Reference Framework | Proficient   |
+| NIST 800-63-3         | Digital Identity Guidelines                                  | Intermediate |
+| ISO 27001             | Information security management systems, Requirements        | Basic        |
+| NIST 800-53           | Security and Privacy Controls for Information Systems and Organizations | Basic        |
+| RFC 3227              | Guidelines for Evidence Collection and Archiving             | Basic        |
+|                       |                                                              |              |
 
 ## Interests and Soft Skills
 
