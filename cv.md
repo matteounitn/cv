@@ -60,19 +60,30 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 
 
+## Awards
+
+**[Premio Tesi](https://tesi.clusit.it/vincitori.php) - [Clusit](https://clusit.it/) (Milan, Italy)**
+
+*Placed in Top 5,  Associazione Italiana per la Sicurezza Informatica 17th Edition* $\bullet$ *Sep, 2022*
+
+<p style="text-align: justify;">The "Innovare la sicurezza delle Informazioni" award is given to the most innovative university theses in information security to foster cooperation between companies, institutions, and students in Italy. A point of interchange between the productive and scientific worlds, students and the working world, motivated by participants' demands and experiences.</p>
+
+
+
 ## Teaching and Tutoring
 
 ### Internship Tutor
 
 *Andrea Brandolini and Mattia Andreolli* in FBK, Security and Trust Unit $\bullet$ *Jun, 2022 - Present*
 
-<p style="text-align: justify;"><small> Andrea Brandolini and Mattia Andreolli are two outstanding students from Istituto Tecnico Tecnologico Buonarroti (Trento, Italy). They readily comprehended complicated topics like as databases and overflow threats despite just being in their third year. They are working with me and my colleague Salvatore Manfredi on a project that will raise awareness about security postures (e.g. password management, phishing awareness and more).</small></p>
+<p style="text-align: justify;"><small>Andrea Brandolini and Mattia Andreolli are two outstanding students from Istituto Tecnico Tecnologico Buonarroti (Trento, Italy). They readily comprehended complicated topics like as databases and overflow threats despite just being in their third year. They are working with me and my colleague Salvatore Manfredi on a project that will raise awareness about security postures (e.g. password management, phishing awareness and more).</small></p>
 
 ---
 
 *Federico Cucino* in FBK, Security and Trust Unit $\bullet$ *Feb, 2022 - Apr, 2022*
 
-<p style="text-align: justify;"><small>I had the opportunity to oversee Federico Cucino, an undergraduate student at University of Trento, thanks to my colleague Salvatore Manfredi. Federico did an excellent job by collecting information on overall webserver use and, more specifically, Public Administration in Italy. Upon learning that NGINX was competing with APACHE, he included several mitigations into NGINX and developed a parser for TLSAssistant. The parser can quickly scan an NGINX configuration and automatically repair any TLS vulnerabilities discovered. Federico was finally able to analyze the TLS environment in deep and correct additional flaws he discovered in the tool.</small></p>
+<p style="text-align: justify;"><small>I had the opportunity to oversee Federico Cucino, an undergraduate student at University of Trento, thanks to my colleague Salvatore Manfredi. Federico did an excellent job by collecting information on overall webserver use and, more specifically, Public Administration in Italy. Upon learning that NGINX was competing with APACHE, he included several mitigations into NGINX and developed a parser for TLSAssistant. </small></p>
+<p style="text-align: justify;"><small>The parser can quickly scan an NGINX configuration and automatically repair any TLS vulnerabilities discovered. Federico was finally able to analyze the TLS environment in deep and correct additional flaws he discovered in the tool.</small></p>
 
 ----
 
@@ -152,7 +163,7 @@ Thesis in *TLS Analyzers for Android Apps - State-of-the-art Analysis and Integr
 
 Final elaborate in *psychoanalysis of James Joyce and the artificial intelligences*.
 
-
+<div class="break_page"></div>
 
 ## Certifications
 
@@ -183,19 +194,19 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 
 
-<div class="break_page"></div>
-
 ## Technical and Programming Skills
 
 <p style="text-align: justify;"> I am widely proficient in everything that touches the cybersecurity realm. My areas of expertise include security testing, vulnerability assessment, cyberrisk assessment, network security (e.g. DmZ, firewalls, honeypots), privacy, trust, and digital identity. During the Machine Learning course, I worked with advanced deep learning systems (such as a convolutional neural network to identify Covid-19 from radiography, in 2020) and achieved the highest gpa in multimedia data security (e.g. invisible and visible watermarking, compression resistant watermarking and classifying differences from video compression applied by Facebook and Youtube).</p>
 
 ---
 
+<div class="break_page"></div>
+
 ### Programming Skills 
 
 | Language                       |       Knowledge Level        |
 | :----------------------------- | :--------------------------: |
-| Python, Java, C (and C++), SQL |          *Advanced*          |
+| Python, Java, C (and C++), SQL |         *Proficient*         |
 | Kotlin, PHP                    |        *Intermediate*        |
 | RUST                           | *Basic (willing to improve)* |
 | JS, PolyML, R, ASM             |           *Basic*            |
@@ -217,6 +228,8 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 | NIST 800-53           | Security and Privacy Controls for Information Systems and Organizations | Basic        |
 | RFC 3227              | Guidelines for Evidence Collection and Archiving             | Basic        |
 |                       |                                                              |              |
+
+<div class="break_page"></div>
 
 ## Interests and Soft Skills
 
