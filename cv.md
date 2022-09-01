@@ -64,7 +64,7 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 **[Premio Tesi](https://tesi.clusit.it/vincitori.php) - [Clusit](https://clusit.it/) (Milan, Italy)**
 
-*Placed in Top 5,  Associazione Italiana per la Sicurezza Informatica 17th Edition* $\bullet$ *Sep, 2022*
+*Placed Top 5,  Associazione Italiana per la Sicurezza Informatica 17th Edition* $\bullet$ *Sep, 2022*
 
 <p style="text-align: justify;">The "Innovare la sicurezza delle Informazioni" award is given to the most innovative university theses in information security to foster cooperation between companies, institutions, and students in Italy. A point of interchange between the productive and scientific worlds, students and the working world, motivated by participants' demands and experiences.</p>
 
@@ -163,6 +163,8 @@ Thesis in *TLS Analyzers for Android Apps - State-of-the-art Analysis and Integr
 
 Final elaborate in *psychoanalysis of James Joyce and the artificial intelligences*.
 
+
+
 <div class="break_page"></div>
 
 ## Certifications
@@ -251,7 +253,7 @@ Department Of Information Engineering And Computer Science
 
 
 
-
+<center><small><i>Press on the QR to download the PDF</i></small></center>
 
 # [<img src="cv.assets/cv.png" alt="cv" style="min-width:150px;width:20%;" />](https://matteo.rizzi.xyz/cv.pdf)
 
