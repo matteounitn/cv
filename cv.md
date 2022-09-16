@@ -64,7 +64,7 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 **[Premio Tesi](https://tesi.clusit.it/vincitori.php) - [Clusit](https://clusit.it/) (Milan, Italy)**
 
-*Placed Top 5,  Associazione Italiana per la Sicurezza Informatica 17th Edition* $\bullet$ *Sep, 2022*
+*Placed 3rd,  Associazione Italiana per la Sicurezza Informatica 17th Edition* $\bullet$ *Sep, 2022*
 
 <p style="text-align: justify;">The "Innovare la sicurezza delle Informazioni" award is given to the most innovative university theses in information security to foster cooperation between companies, institutions, and students in Italy. A point of interchange between the productive and scientific worlds, students and the working world, motivated by participants' demands and experiences.</p>
 
