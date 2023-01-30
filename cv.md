@@ -12,15 +12,21 @@
 
 ---
 
-### Bachelor in Computer Science, Junior Research Scientist
+### Bachelor in Computer Science, Security Administrator and Research Scientist
 
-<p style="text-align: justify;">Born in 1998, 30 September, I work as a Junior Research Scientist in the <a href="https://st.fbk.eu">Security and Trust</a> unit at <a href="https://www.fbk.eu">Fondazione Bruno Kessler</a>. I joined the S&T unit to explore and improve TLS analysis and delve into identity management. I am working concurrently between FBK and the Istituto Poligrafico e Zecca dello Stato.</p>
+<p style="text-align: justify;">Born in 1998, 30 September, I hold the positions of Security Administrator at <a href="https://www.fbk.eu">Fondazione Bruno Kessler</a> and Research Scientist in the organization's <a href="https://st.fbk.eu">Security and Trust</a> unit. I joined the S&T unit to explore and improve TLS analysis and delve into identity management.  While safeguarding Fondazione Bruno Kessler from cyber threats, I am looking into new opportunities and technologies and working with Istituto Poligrafico e Zecca dello Stato.</p>
 
 
 
 ## Experiences
 
 ### Fondazione Bruno Kessler (Trento, Italy)
+
+*Security Administrator* $\bullet$ *Sep, 2022 - Present*
+
+<p style="text-align: justify;">Studying the state of the art and applying my expertise of risk analysis, red teaming, blue teaming, OSINT, and offensive technologies; conducting continuous pentests on the infrastructure and introducing new defenses to safeguard and protect Fondazione Bruno Kessler from cybercriminals.</p>
+
+---
 
 *Junior Research Scientist* $\bullet$ *Feb, 2021 - Present*
 
@@ -237,11 +243,9 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 ### Work Interests
 
-*What i really want to do in my future* $\bullet$ *2022*
+*What i really want to do in my future* $\bullet$ *2023*
 
 <p style="text-align: justify;">I am passionate about <i>CyberSecurity, Privacy, Forensics and Digital Identity</i>, as well as the solutions that embrace these areas, which include (but are <i>not limited to</i>) <i>Security Protocol Analysis, Access Control, Zero-Trust and Zero-Knowledge methods, Malware Analysis and AI-Powered CyberSecurity</i>. I am particularly intrigued by the idea of developing novel solutions and conducting scientific research in these fields.</p>
-
-I would like to understand better how to conduct red teaming in a professional and certified manner.
 
 ---
 
