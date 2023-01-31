@@ -204,11 +204,11 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 ## Technical and Programming Skills
 
-<p style="text-align: justify;"> I am widely proficient in everything that touches the cybersecurity realm. My areas of expertise include security testing, vulnerability assessment, cyberrisk assessment, network security (e.g. DmZ, firewalls, honeypots), privacy, trust, and digital identity. During the Machine Learning course, I worked with advanced deep learning systems (such as a convolutional neural network to identify Covid-19 from radiography, in 2020) and achieved the highest gpa in multimedia data security (e.g. invisible and visible watermarking, compression resistant watermarking and classifying differences from video compression applied by Facebook and Youtube).</p>
+<p style="text-align: justify;"> I am widely proficient in everything that touches the cybersecurity realm. My areas of expertise include security testing, vulnerability assessment, cyberrisk assessment, network security (e.g. DmZ, firewalls, honeypots), privacy, trust, OSINT, and digital identity. During the Machine Learning course, I worked with advanced deep learning systems (such as a convolutional neural network to identify Covid-19 from radiography, in 2020), achieved the highest gpa in multimedia data security (e.g. invisible and visible watermarking, compression resistant watermarking and classifying differences from video compression applied by Facebook and Youtube). I also earned the highest GPA in the Offensive Technologies course, in which I learned how to perform attack and defense in the cyberspace.</p>
+
+<p style="text-align: justify;">Throughout my career, I have discovered numerous flaws —some of them critical— in the infrastructures used by the Fondazione Bruno Kessler. I was also able to collaborate with the Postal Police while researching new technologies in the field. In addition, I managed to analyze the CIEApp (Carta Identità Elettronica) with the Open Web Application Security Project (OWASP). Threat intelligence is a topic that deeply interests me.</p>
 
 ---
-
-<div class="break_page"></div>
 
 ### Programming Skills 
 
@@ -263,3 +263,4 @@ Department Of Information Engineering And Computer Science
 
 # [<img src="cv.assets/calendar.png" alt="meet me" style="min-width:32px;width:3%;" />](https://calendly.com/matteounitn/30min)
 
+​	
