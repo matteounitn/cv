@@ -135,6 +135,12 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 ## Minor Works
 
+### [Threat-intelligence-telegram](https://github.com/matteounitn/Threat-Intelligence-telegram)
+
+*A bot to quickly get information about an IP using threat intelligence. $\bullet$ 2023*
+
+---
+
 ### [Mallodroid](https://github.com/stfbk/mallodroid)
 
 *Conversion in Python 3 and enhancements* $\bullet$ *2020 - 2021*
@@ -187,6 +193,13 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 | *P-05*      | June 4, 2021 | [Download](certificates/cyberwiser/P-05_Final certificate.pdf) |
 | *P-06*      | June 4, 2021 | [Download](certificates/cyberwiser/P-06_Final certificate.pdf) |
 |             |              |                                                              |
+
+### Microsoft
+
+| Module                                          | Date              |                                                  Certificate |
+| ----------------------------------------------- | ----------------- | -----------------------------------------------------------: |
+| Into the Breach                                 | February 07, 2023 | [Verify](https://www.credly.com/badges/2b8592dc-c867-4f11-9d88-4329981e5e8b) |
+| Microsoft Azure <br />Security Technologies (A) | March 07, 2023    | [Download](certificates/microsoft/MICROSOFT_AZ-500T00-NREN_1074556.pdf) |
 
 -----
 
