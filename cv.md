@@ -38,6 +38,8 @@
 
 <p style="text-align: justify;">Study and improvement of TLS analysis tools within the Security & Trust research unit.</p>
 
+<div class="break_page"></div>
+
 ---
 
 **Futuro & Conoscenza S.r.l. (Trento & Rome, Italy)**
@@ -74,28 +76,38 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 <p style="text-align: justify;">The "Innovare la sicurezza delle Informazioni" award is given to the most innovative university theses in information security to foster cooperation between companies, institutions, and students in Italy. A point of interchange between the productive and scientific worlds, students and the working world, motivated by participants' demands and experiences.</p>
 
-
+<div class="break_page"></div>
 
 ## Teaching and Tutoring
 
 ### Internship Tutor
 
-*Andrea Brandolini and Mattia Andreolli* in FBK, Security and Trust Unit $\bullet$ *Jun, 2022 - Present*
+*Andrea B. and Mattia A.* in FBK, Security and Trust Unit $\bullet$ *Jun, 2022 - Present*
 
-<p style="text-align: justify;"><small>Andrea Brandolini and Mattia Andreolli are two outstanding students from Istituto Tecnico Tecnologico Buonarroti (Trento, Italy). They readily comprehended complicated topics like as databases and overflow threats despite just being in their third year. They are working with me and my colleague Salvatore Manfredi on a project that will raise awareness about security postures (e.g. password management, phishing awareness and more).</small></p>
+<p style="text-align: justify;"><small>Andrea B. and Mattia A. are two outstanding students from Istituto Tecnico Tecnologico Buonarroti (Trento, Italy). They readily comprehended complicated topics like as databases and overflow threats despite just being in their third year. They are working with me and my colleague Salvatore Manfredi on a project that will raise awareness about security postures (e.g. password management, phishing awareness and more).</small></p>
 
 ---
 
-*Federico Cucino* in FBK, Security and Trust Unit $\bullet$ *Feb, 2022 - Apr, 2022*
+*Federico C.* in FBK, Security and Trust Unit $\bullet$ *Feb, 2022 - Apr, 2022*
 
-<p style="text-align: justify;"><small>I had the opportunity to oversee Federico Cucino, an undergraduate student at University of Trento, thanks to my colleague Salvatore Manfredi. Federico did an excellent job by collecting information on overall webserver use and, more specifically, Public Administration in Italy. Upon learning that NGINX was competing with APACHE, he included several mitigations into NGINX and developed a parser for TLSAssistant. </small></p>
+<p style="text-align: justify;"><small>I had the opportunity to oversee Federico C., an undergraduate student at University of Trento, thanks to my colleague Salvatore Manfredi. Federico did an excellent job by collecting information on overall webserver use and, more specifically, Public Administration in Italy. Upon learning that NGINX was competing with APACHE, he included several mitigations into NGINX and developed a parser for TLSAssistant. </small></p>
 <p style="text-align: justify;"><small>The parser can quickly scan an NGINX configuration and automatically repair any TLS vulnerabilities discovered. Federico was finally able to analyze the TLS environment in deep and correct additional flaws he discovered in the tool.</small></p>
 
 ----
 
-*Ivan Valentini* in FBK, Security and Trust Unit $\bullet$ *Feb, 2022 - Apr, 2022*
+*Ivan V.* in FBK, Security and Trust Unit $\bullet$ *Feb, 2022 - Apr, 2022*
 
-<p style="text-align: justify;"><small>Thanks to my colleague Salvatore Manfredi, I have overseen the internship of an undergraduate student at University of Trento, Ivan Valentini. Ivan, a talented student, researched the TLS area to see what new threats had emerged. Ivan encountered ALPACA, Racoon, Zombie POODLE, Golden DOODLE, 0-Length OpenSSL, and Sleeping POODLE after researching the literature. Using POODLE variations as a starting point, Ivan investigated the optimal method for integrating these vulnerability checks into TLSAssistant. Ivan progressively included all prior vulnerability assessments (i.e. ALPACA, POODLE variants and Racoon). Not only did he incorporate them into our tool, but he also corrected and made the external tool TLSScanner more efficient by statistically demonstrating it by scanning the Alexa top 50,000 websites.</small></p>
+<p style="text-align: justify;"><small>Thanks to my colleague Salvatore Manfredi, I have overseen the internship of an undergraduate student at University of Trento, Ivan V. . Ivan, a talented student, researched the TLS area to see what new threats had emerged. Ivan encountered ALPACA, Racoon, Zombie POODLE, Golden DOODLE, 0-Length OpenSSL, and Sleeping POODLE after researching the literature. Using POODLE variations as a starting point, Ivan investigated the optimal method for integrating these vulnerability checks into TLSAssistant. Ivan progressively included all prior vulnerability assessments (i.e. ALPACA, POODLE variants and Racoon). Not only did he incorporate them into our tool, but he also corrected and made the external tool TLSScanner more efficient by statistically demonstrating it by scanning the Alexa top 50,000 websites.</small></p>
+
+
+
+## Public Events
+
+### Cybersecurity: the experience of two young professionals
+
+*LiceoSteam, Rovereto* $\bullet$ *Apr, 2023*
+
+<p style="text-align: justify;">Dialogue with Giada Sciarretta and Matteo Rizzi, two experts from the Center for Cyber Security at the Bruno Kessler Foundation who will share their career paths, showing how one can get to play important roles in cybersecurity and digital innovation by following different paths. The discussion was also an opportunity to understand the importance of digital security in public administration and to stimulate students' interest in cybersecurity with real-world examples.</p>
 
 
 
@@ -177,8 +189,6 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 
 
-<div class="break_page"></div>
-
 ## Certifications
 
 **CyberWiser - CyberRange And Capacity Building in CyberSecurity**
@@ -232,6 +242,8 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 | RUST                           | *Basic (willing to improve)* |
 | JS, PolyML, R, ASM             |           *Basic*            |
 |                                |                              |
+
+<div class="break_page"></div>
 
 ---
 
