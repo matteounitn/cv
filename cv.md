@@ -82,7 +82,7 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 ### Internship Tutor
 
-*Andrea B. and Mattia A.* in FBK, Security and Trust Unit $\bullet$ *Jun, 2022 - Present*
+*Andrea B. and Mattia A.* in FBK, Security and Trust Unit $\bullet$ *Jun, 2022 - Jul, 2022*
 
 <p style="text-align: justify;"><small>Andrea B. and Mattia A. are two outstanding students from Istituto Tecnico Tecnologico Buonarroti (Trento, Italy). They readily comprehended complicated topics like as databases and overflow threats despite just being in their third year. They are working with me and my colleague Salvatore Manfredi on a project that will raise awareness about security postures (e.g. password management, phishing awareness and more).</small></p>
 
@@ -108,6 +108,14 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 *LiceoSteam, Rovereto* $\bullet$ *Apr, 2023*
 
 <p style="text-align: justify;">Dialogue with Giada Sciarretta and Matteo Rizzi, two experts from the Center for Cyber Security at the Bruno Kessler Foundation who will share their career paths, showing how one can get to play important roles in cybersecurity and digital innovation by following different paths. The discussion was also an opportunity to understand the importance of digital security in public administration and to stimulate students' interest in cybersecurity with real-world examples.</p>
+
+---
+
+### [Wired Next Fest 2023: Cybersecurity non è solo roba da nerd](https://eventi.wired.it/wnf23-rovereto/session/1465265/la-cyber-security-non-%C3%A8-solo-roba-da-nerd)
+
+*Ex-Scuole Damiano Chiesa, Rovereto* $\bullet$ *May, 2023*
+
+<p style="text-align: justify;">Child grooming, posting sensitive information online and/or on social media, ransomware that takes control of your data for ransom. All threats that the latest device and constantly updated antivirus can help protect against, but not enough. Human error often opens the floodgates and destroys the best defenses. Thus, cybersecurity begins with culture. Learn the first and most important defense methods to protect your data and family.</p>
 
 
 
@@ -143,7 +151,7 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 <p style="text-align: justify;">Python library to easily check if two images are similar without machine learning by using Perceptual Hashing (phash and whash combined), with ban and unban image system.</p>
 
-
+<div class="break_page"></div>
 
 ## Minor Works
 
@@ -242,8 +250,6 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 | RUST                           | *Basic (willing to improve)* |
 | JS, PolyML, R, ASM             |           *Basic*            |
 |                                |                              |
-
-<div class="break_page"></div>
 
 ---
 
