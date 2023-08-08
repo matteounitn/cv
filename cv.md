@@ -80,7 +80,36 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 ## Teaching and Tutoring
 
+### CyberSecurity [at] Buonarroti 
+
+*Istituto Tecnico Tecnologico Buonarroti, Trento* $\bullet$ *May, 2023 - Jun, 2023* 
+
+<p style="text-align: justify;">Conducted two out of four sessions involving penetration testing of the sensors at Buonarroti High School, with the objective of invalidating data and highlighting the significance of cybersecurity within the industry. The lesson involved the explanation of various techniques employed in cyber attacks, specifically focusing on the Advanced Persistent Threat (APT) and its current methodologies. Real-life examples were provided to illustrate the concepts, such as the Rogue Access Point (Wireless), Man-in-the-Middle (MiTM) attacks, and Web Vulnerability Assessment, all within the context of the school website.</p>
+
+----
+
+### PhD Course Digital Identity 2023
+
+*Fondazione Bruno Kessler, Security And Trust Unit* $\bullet$ *Apr, 2023*
+
+<p style="text-align: justify;">I successfully delivered a lecture on the diverse attacks applicable to TLS in a PhD course, under the guidance of Salvatore Manfredi and Giada Sciarretta. During the lecture, I provided a comprehensive explanation of Oracle Attacks in a cryptographic context, and additionally presented a Proof of Concept showcasing the HeartBleed Vulnerability.</p>
+
+---
+
 ### Internship Tutor
+
+*Federica M. and Davide M.* in FBK, Security and Trust Unit $\bullet$ *Jul, 2023*
+
+<p style="text-align: justify;"><small>Federica M. and Davide M., two talented pupils from Istituto Tecnico Tecnologico Buonarroti Trento, have successfully developed engaging and interactive videos that effectively explain cognitive biases in cybersecurity. Their videos are designed to be easily comprehensible by all viewers, making the complex subject accessible to a wide audience. They were given guidance on the necessary measures they can take to perform and safeguard themselves against threats so that they can better understand these hazards.</small></p>
+
+---
+
+*Matilde S. and Mattia C.* in FBK, Security and Trust Unit $\bullet$ *Jun, 2023 - Jul, 2023*
+
+<p style="text-align: justify;"><small>
+Matilde S. and Mattia C. are two brilliant students hailing from Liceo Steam Rovereto and Istituto Tecnico Tecnologico Buonarroti Trento, respectively, in Italy. They have successfully acquired knowledge in Open Source Intelligence (OSINT) and social media risk assessment. The students successfully acquired the skills necessary to conduct a digital investigation, including the collection of data from online sources. They showed proficiency in analyzing multiple social media platforms and evaluating an individual's "digital footprint" based on the information available.</small></p>
+
+---
 
 *Andrea B. and Mattia A.* in FBK, Security and Trust Unit $\bullet$ *Jun, 2022 - Jul, 2022*
 
@@ -103,23 +132,31 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 ## Public Events
 
-### Cybersecurity: the experience of two young professionals
-
-*LiceoSteam, Rovereto* $\bullet$ *Apr, 2023*
-
-<p style="text-align: justify;">Dialogue with Giada Sciarretta and Matteo Rizzi, two experts from the Center for Cyber Security at the Bruno Kessler Foundation who will share their career paths, showing how one can get to play important roles in cybersecurity and digital innovation by following different paths. The discussion was also an opportunity to understand the importance of digital security in public administration and to stimulate students' interest in cybersecurity with real-world examples.</p>
-
----
-
 ### [Wired Next Fest 2023: Cybersecurity non è solo roba da nerd](https://eventi.wired.it/wnf23-rovereto/session/1465265/la-cyber-security-non-%C3%A8-solo-roba-da-nerd)
 
 *Ex-Scuole Damiano Chiesa, Rovereto* $\bullet$ *May, 2023*
 
 <p style="text-align: justify;">Child grooming, posting sensitive information online and/or on social media, ransomware that takes control of your data for ransom. All threats that the latest device and constantly updated antivirus can help protect against, but not enough. Human error often opens the floodgates and destroys the best defenses. Thus, cybersecurity begins with culture. Learn the first and most important defense methods to protect your data and family.</p>
 
+---
+
+### Cybersecurity: the experience of two young professionals
+
+*LiceoSteam, Rovereto* $\bullet$ *Apr, 2023*
+
+<p style="text-align: justify;">Dialogue with Giada Sciarretta and Matteo Rizzi, two experts from the Center for Cyber Security at the Bruno Kessler Foundation who will share their career paths, showing how one can get to play important roles in cybersecurity and digital innovation by following different paths. The discussion was also an opportunity to understand the importance of digital security in public administration and to stimulate students' interest in cybersecurity with real-world examples.</p>
+
 
 
 ## Projects
+
+**Linux Hardening for Banks**
+
+*Allitude - Cassa Centrale Banca* $\bullet$ *Jul, 2023*
+
+<p style="text-align: justify;">Development of comprehensive guidelines for enhancing the security of Linux servers and systems, with a specific focus on fortifying the operating systems and kernels utilized within banking environments.</p>
+
+---
 
 **Multi-CIE System**
 
