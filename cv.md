@@ -377,6 +377,6 @@ Department Of Information Engineering And Computer Science
 
 # [<img src="cv.assets/cv.png" alt="cv" style="min-width:150px;width:20%;" />](https://matteo.rizzi.xyz/cv.pdf)
 
-# [<img src="cv.assets/calendar.png" alt="meet me" style="min-width:32px;width:3%;" />](https://calendly.com/matteounitn/30min)
+# [<img src="cv.assets/calendar.png" alt="meet me" style="min-width:32px;width:3%;" />](https://app.reclaim.ai/m/mrizzi-fbk/flexible-quick-meeting)
 
 ​	
