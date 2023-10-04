@@ -96,7 +96,36 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 ---
 
+### Thesis Supervisor
+
+*Riccardo G. in FBK, Security and Trust Unit $\bullet$ Apr, 2023 - Aug, 2023*
+
+<p style="text-align: justify;"><small> Riccardo G., an outstanding student, has successfully developed a groundbreaking module designed to assess the security standards of TLS implementations. He has enhanced the functionality of TLSAssistant, an advanced tool designed to optimize the configuration of TLS protocols for both web servers and Android applications. Riccardo excels in automating user configuration verification, meticulously adhering to guidelines set forth by esteemed organizations such as NIST, BSI, ANSSI, AgID, and Mozilla. Riccardo successfully resolved the PSA-DSS issue for testssl.sh, thereby capturing the attention of NIST.
+</small></p>
+
+---
+
+*Sara S. in FBK, Security and Trust Unit $\bullet$ Apr, 2023 - Aug, 2023*
+
+<p style="text-align: justify;"><small>Sara S. is a brilliant student at the valued Department of Information Engineering and Computer Science, specializing in the ever-changing fields of Computer, Communication, and Electronic Engineering. 
+    In her innovative thesis, she delves into the realm of gamification as a powerful tool to elevate cybersecurity awareness programs. Her research revolves around the ingenious concept of presenting cybersecurity content in a manner that is both engaging and impactful. By emphasizing the cultivation of good cyber habits and promoting responsible online conduct, she aims to revolutionize the way we approach cybersecurity education. The candidate conducts in-depth analysis of the theoretical underpinnings and elements of gamification, culminating in the development of a groundbreaking and versatile framework specifically designed for the implementation of cybersecurity awareness initiatives. She has made an important breakthrough in the field of learning enhancement by developing a comprehensive framework that seamlessly integrates approximately fifty papers into a singular, powerful solution.</small></p>
+
+---
+
 ### Internship Tutor
+
+*Riccardo G. in FBK, Security and Trust Unit $\bullet$ Feb, 2023 - Apr, 2023*
+
+<p style="text-align: justify;"><small> Riccardo G., an outstanding student, has successfully developed a groundbreaking module designed to assess the security standards of TLS implementations. He has enhanced the functionality of TLSAssistant, an advanced tool designed to optimize the configuration of TLS protocols for both web servers and Android applications. Riccardo excels in automating user configuration verification, meticulously adhering to guidelines set forth by esteemed organizations such as NIST, BSI, ANSSI, AgID, and Mozilla. Riccardo successfully developed a highly efficient database system for the purpose of storing and managing researchers' datasets. The dataset encompassed a diverse range of guideline requirements. Furthermore, the individual adeptly employed testssl.sh, a cutting-edge tool within the TLSAssistant suite, to successfully extract valuable user data. Implemented and integrated the cutting-edge methodology into TLSAssistant as a seamlessly functioning module. Riccardo has successfully developed cutting-edge algorithms that excel in validating user input and parsing complex conditions.Riccardo successfully resolved the PSA-DSS issue for testssl.sh, thereby capturing the attention of NIST.
+</small></p>
+
+---
+
+*Andrea B. and Mattia A.* in FBK, Security and Trust Unit $\bullet$ *Jun, 2022 - Jul, 2022* ~ *Aug, 2023 - Sep, 2023*
+
+<p style="text-align: justify;"><small>Andrea B. and Mattia A. are two outstanding students from Istituto Tecnico Tecnologico Buonarroti (Trento, Italy). They readily comprehended complicated topics like as databases and overflow threats despite just being in their third year. They are working with me and my colleague Salvatore Manfredi on a project that will raise awareness about security postures (e.g. password management, phishing awareness and more).</small></p>
+
+---
 
 *Federica M. and Davide M.* in FBK, Security and Trust Unit $\bullet$ *Jul, 2023*
 
@@ -108,14 +137,9 @@ Matteo Rizzi, Salvatore Manfredi, Giada Sciarretta, Silvio Ranise.
 
 <p style="text-align: justify;"><small>
 Matilde S. and Mattia C. are two brilliant students hailing from Liceo Steam Rovereto and Istituto Tecnico Tecnologico Buonarroti Trento, respectively, in Italy. They have successfully acquired knowledge in Open Source Intelligence (OSINT) and social media risk assessment. The students successfully acquired the skills necessary to conduct a digital investigation, including the collection of data from online sources. They showed proficiency in analyzing multiple social media platforms and evaluating an individual's "digital footprint" based on the information available.</small></p>
-
 ---
 
-*Andrea B. and Mattia A.* in FBK, Security and Trust Unit $\bullet$ *Jun, 2022 - Jul, 2022*
-
-<p style="text-align: justify;"><small>Andrea B. and Mattia A. are two outstanding students from Istituto Tecnico Tecnologico Buonarroti (Trento, Italy). They readily comprehended complicated topics like as databases and overflow threats despite just being in their third year. They are working with me and my colleague Salvatore Manfredi on a project that will raise awareness about security postures (e.g. password management, phishing awareness and more).</small></p>
-
----
+<div class="break_page"></div>
 
 *Federico C.* in FBK, Security and Trust Unit $\bullet$ *Feb, 2022 - Apr, 2022*
 
@@ -131,6 +155,14 @@ Matilde S. and Mattia C. are two brilliant students hailing from Liceo Steam Rov
 
 
 ## Public Events
+
+### [Notte Della Ricerca 2023: SIAMO AL SICURO? METTIAMOCI ALLA PROVA! (58)](https://www.muse.it/events/notte-della-ricerca-2023/) 
+
+*Un viaggio nel mondo della sicurezza informatica*  - *Museo della Scienza MUSE*  $\bullet$ *Sept 29, 2023*
+
+<p style="text-align: justify;">Through games and hands-on demonstrations, various topics related to cybersecurity will be presented. The most dangerous cyber attacks will be explored, as well as the behaviors to be adopted to ensure maximum protection of online data privacy and digital identity.</p>
+
+----
 
 ### [Wired Next Fest 2023: Cybersecurity non è solo roba da nerd](https://eventi.wired.it/wnf23-rovereto/session/1465265/la-cyber-security-non-%C3%A8-solo-roba-da-nerd)
 
@@ -149,6 +181,22 @@ Matilde S. and Mattia C. are two brilliant students hailing from Liceo Steam Rov
 
 
 ## Projects
+
+**Security of the Trentino eHealth Infrastructure**
+
+*APSS - Provincia Autonoma di Trento and Fondazione Bruno Kessler* $\bullet$ *Sept, 2023 - Present*
+
+<p style="text-align: justify;">In an innovative collaboration between eHealth and FBK, a cutting-edge initiative has been undertaken to enhance the Sanitary system of Trentino. This ambitious project aims to fortify the infrastructure and application with a robust layer of cybersecurity, ensuring the utmost protection of citizens' personal and sensitive information against potential external threats.</p>
+
+---
+
+### European Digital Identity Wallet
+
+*Authentication flows, issuing and safe storage of the documents* $\bullet$ *2022 - Present*
+
+<p style="text-align: justify;">I am currently engaged in an esteemed partnership between Istituto Poligrafico and Zecca dello Stato, collaborating under the valued banner of FBK. Our focus lies in the realm of cybersecurity, specifically in the development of The European Identity Wallet. This groundbreaking initiative entails the creation of a sophisticated personal digital wallet, empowering individuals to seamlessly authenticate their identities, securely store crucial documents, and efficiently manage their electronic records.</p>
+
+---
 
 **Linux Hardening for Banks**
 
@@ -188,7 +236,7 @@ Matilde S. and Mattia C. are two brilliant students hailing from Liceo Steam Rov
 
 <p style="text-align: justify;">Python library to easily check if two images are similar without machine learning by using Perceptual Hashing (phash and whash combined), with ban and unban image system.</p>
 
-<div class="break_page"></div>
+
 
 ## Minor Works
 
@@ -268,7 +316,7 @@ Final elaborate in *psychoanalysis of James Joyce and the artificial intelligenc
 
 *ECDL / ICDL Certification $\bullet$ May, 2016*
 
-
+<div class="break_page"></div>
 
 ## Technical and Programming Skills
 
